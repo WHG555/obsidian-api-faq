@@ -12,6 +12,11 @@ const basePath = (
         ).getBasePath()
 ```
 
+## 获取配置文件夹名字
+```ts
+app.vault.configDir
+```
+
 ## 获取全局设置
 
 ```ts
